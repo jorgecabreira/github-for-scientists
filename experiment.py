@@ -29,7 +29,8 @@ def get_participant_id():
 
 # TASK 2: Ask for the experimenter's name.
 def get_experimenter_id():
-    return "unknown"  # TODO: replace with input(...)
+    name = input("whats your name")
+    return  name # TODO: replace with input(...)
 
 
 # TASK 3: Generate the start timestamp automatically.

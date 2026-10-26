@@ -12,7 +12,7 @@ MIN_BAR_LENGTH = 180
 MAX_BAR_LENGTH = 240
 MIN_DIFFERENCE = 10
 MAX_DIFFERENCE = 25
-testing_SJ
+
 # ==================================================
 # WORKSHOP TASKS — EDIT ONLY THESE EIGHT FUNCTIONS
 # ==================================================

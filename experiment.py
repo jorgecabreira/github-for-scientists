@@ -19,7 +19,7 @@ MAX_DIFFERENCE = 25
 
 # TASK 0 (LIVE DEMO): Change the color of the bars.
 def get_bar_color():
-    return "black"  # TODO: try "royalblue"
+    return "royalblue"
 
 
 # TASK 1: Ask for the participant's name.
